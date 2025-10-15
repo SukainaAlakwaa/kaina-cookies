@@ -1,8 +1,8 @@
 :root{
-  --bg: #fffaf6; /* cozy bakery cream */
+  --bg: #fffaf6;
   --text: #2b2b2b;
-  --brand: #7a4b2e; /* cocoa */
-  --accent: #c38a6a; /* caramel */
+  --brand: #7a4b2e;
+  --accent: #c38a6a;
   --card: #ffffff;
   --ring: rgba(122,75,46,.15);
 }
