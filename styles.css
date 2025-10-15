@@ -203,21 +203,3 @@ nav{ margin-left:auto; }
 }
 .site-footer p{margin:0;}
 
-
-/* RESPONSIVE */
-@media (max-width:800px){
-  .hero-grid{grid-template-columns:1fr;}
-  .grid-3{grid-template-columns:1fr;}
-  .nav{display:none;}
-  .nav.open{display:flex;flex-direction:column;}
-  .nav-toggle{
-    display:inline-flex;
-    align-items:center;
-    gap:8px;
-    background:#fff;
-    border:1px solid #eee;
-    border-radius:8px;
-    padding:.4rem .6rem;
-    color:var(--brand);
-  }
-}
